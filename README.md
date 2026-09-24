@@ -101,6 +101,12 @@ My goal is to build backend applications that combine clean application logic, A
 
 ---
 
+## 🌐 Languages
+
+German — B2 certified | English — basic working proficiency
+
+---
+
 ## 🤝 Connect with me
 
 [LinkedIn](https://www.linkedin.com/in/roman-vainer-872522160)
